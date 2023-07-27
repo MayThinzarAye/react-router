@@ -1,0 +1,17 @@
+.navContainer {
+  width: 100%;
+}
+.navLinkContainer {
+  display: flex;
+  list-style-type: none;
+}
+.navLinkContainer li a {
+  font-size: 1.2rem;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: 700;
+  text-decoration: none;
+  color: #000;
+}
+.navLinkContainer li {
+  padding: 30px 10px;
+}
